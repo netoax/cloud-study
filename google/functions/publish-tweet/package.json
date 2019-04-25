@@ -1,0 +1,16 @@
+{
+  "name": "publish-tweet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publish-tweet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^1.6.0",
+    "fs-extra": "^7.0.1",
+    "twitter": "^1.7.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
